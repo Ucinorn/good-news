@@ -1,26 +1,50 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+title: THE GREATEST CONVENIENCE STORE ON EARTH
+date: "2017-01-04T15:04:10.000Z"
+description: The Redfern Convenience Store isn’t the biggest shop in Sydney, but
+  what it lacks in size it certainly makes up in community and entrepreneurial
+  spirit.
+image: img/blog1.jpg
 ---
+And it’s probably why thecorner shop – that dubs itself the “greatest convenience store on earth” – also boasts almost 20,000 Instagram followers.
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+\
+In fact, it’s fair to say it’s owner, Hazem Sedda, has well and truly hit convenience store fame at a level not seen since Apu from the Kwik-E-Mart starred on The Simpsons.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+\
+“My customers don’t see us as a corner shop. They come to see me and come to have a chat with me,” he said. “I also never look at them as a customer, I see them as friends.”
 
-## The little secrets of Chemex brewing
+\
+“What I do makes them happy. The happier they are, the happier I am.”
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+\
+Just weeks ago, Hazem made national headlines when he was selling toilet paper when it was in extreme demand. A simple sign called out the craziness when he had priced one toilet roll at $3.50 and two for $99. “Our Instagram account isn’t about pushing sales for us, it’s about creating a community and showing our customers and how beautiful people are,” Hazem said.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+\
+In fact, Hazem celebrates his customers every day by featuring them as the Customer of the Day in a social media post that tells the unique stories of his followers, some who travel interstate to visit the store.\
+Born in Palestine, Hazem is a fully trained commercial pilot but says it’s his passion for working behind the counter and the community that keeps him grounded.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+
+![Group Shot](img/blog2.jpg "The Redfern Convenience Crew")
+
+\
+“Being a pilot, you don’t communicate with humans. It’s all numbers and computers. Very rarely do you see a pilot speaking to a passenger on a plane. But I love to meet people and I’m much happier doing this. And I also get to be my own boss.”
+
+\
+Hazem’s success has been assisted by TV personality Ben Fordham, who used to live in the neighbourhood and frequented the store as a customer.
+
+\
+If you are in Sydney, visit Hazem at the Redfern Convenience Store at 152A Redfern Street, Redfern. You’ll see for yourself it’s not just any milk bar.\
+\
+[\#thegoodnews](https://www.instagram.com/explore/tags/thegoodnews/)[\
+#storiestomakeyousmile](https://www.instagram.com/explore/tags/storiestomakeyousmile/)\
+[\#news](https://www.instagram.com/explore/tags/news/)\
+[\#journalism](https://www.instagram.com/explore/tags/journalism/)\
+[\#inspiring](https://www.instagram.com/explore/tags/inspiring/)\
+[\#innovation](https://www.instagram.com/explore/tags/innovation/)\
+[\#Australian](https://www.instagram.com/explore/tags/australian/)\
+[\#Sydney](https://www.instagram.com/explore/tags/sydney/)\
+[\#Conveniencestore](https://www.instagram.com/explore/tags/conveniencestore/)\
+[\#Redfern](https://www.instagram.com/explore/tags/redfern/)\
+[\#customeroftheday](https://www.instagram.com/explore/tags/customeroftheday/)
