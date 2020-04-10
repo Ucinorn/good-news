@@ -1,6 +1,6 @@
 ---
 title: YOU MAY ELBOW BUMP THE BRIDE
-date: "2020-04-10T04:50:34.875Z"
+date: "2020-04-01T03:50:34.875Z"
 fb: https://www.instagram.com/p/B-MaZVsgvkw/
 instagram: https://www.instagram.com/p/B-MaZVsgvkw/
 description: In what’s been described as one of the iconic images in the world
