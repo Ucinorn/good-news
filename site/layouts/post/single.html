@@ -3,6 +3,16 @@
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+      {{ if .Params.facebook }}
+      <p>
+        {{ partial "social-icon" (dict "link" "{{.Params.facebook}}" "svg" "icons-facebook") }}
+      </p>
+      {{ end }}
+      {{ if .Params.instagram }}
+      <p>
+        {{ partial "social-icon" (dict "link" "{{.Params.instagram}}" "svg" "icons-instagram") }}
+      </p>
+      {{ end }}
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
@@ -17,7 +27,7 @@
 
     <div class="db mt4 flex justify-around">
       <a class="btn {{if not .PrevInSection}} grey1 bcgrey1 {{end}}" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">Older</a>
-      <a class="btn" href="/">Home</a>
+      <a class="ba bw1 pa1" href="/">Home</a>
       <a class="btn btn-lg cc-btn-default{{if not .NextInSection}} disabled{{end}}" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">Newer</a>
     </div>
   </div>
