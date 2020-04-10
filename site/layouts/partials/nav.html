@@ -1,19 +1,28 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<nav class="overflow-x-scroll overflow-x-visible-ns justify-between items-center center bg-white divider-grey relative">
+
+	<div class="mw9 center">
+		<ul class="bg-black flex items-center justify-left">
+			{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
+			{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
+			{{ $svg := (dict "link" "#" "svg" "icons-email")}}
+			<li class="self-end" style="margin-left: auto"><a href="/contact" class="no-underline f5 pa1 bg-highlight ba bw3 b--black pa1 db">
+				<svg width="16px" height="16px" class="dib black">
+					<use xlink:href="#{{$svg}}"></use>
+				</svg>
+				<span>
+					Submit a Good News Story
+				</span>
+			</a></li>
+		</ul>
+	</div>
 
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
-	</a>
-
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
-
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
+	{{ if eq .Permalink "/" }}
+		<img src="/img/SVG/TheGoodNews_Logo_tagline_BLK.svg" alt="The Good News tagline" class="br0 db mb0 w-100"/>
+	{{ else }}
+		<a href="/" class="db pa1 center mw6">
+			<img src="/img/SVG/TheGoodNews_Logo_tagline_BLK.svg" alt="The Good News tagline" class="br0 db mb0 w-100"/>
+		</a>
+	{{ end }}
 
 </nav>

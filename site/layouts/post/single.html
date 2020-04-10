@@ -1,15 +1,24 @@
 {{ define "main" }}
-
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+    </div>
+    {{ if .Params.hashtags }}
+    <div>
+      {{ .Params.hashtags }}
+    </div>
+    {{ end }}
+
+    <div class="db mt4 flex justify-around">
+      <a class="btn {{if not .PrevInSection}} grey1 bcgrey1 {{end}}" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">Older</a>
+      <a class="btn" href="/">Home</a>
+      <a class="btn btn-lg cc-btn-default{{if not .NextInSection}} disabled{{end}}" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">Newer</a>
     </div>
   </div>
 {{ end }}
