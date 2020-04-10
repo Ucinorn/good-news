@@ -1,11 +1,11 @@
 {{ define "main" }}
-  <div class="mw6 center ph3 pv4">
+  <div class="center pv4" style="max-width: 640px;">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="flex justify-between items-center grey-3">
-      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      {{ if .Params.facebook }}
+    <div class="flex justify-end items-center grey-3 mb2">
+      <p class="ma1" style="margin-right: auto;">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+      {{ if .Params.fb }}
       <p>
-        {{ partial "social-icon" (dict "link" "{{.Params.facebook}}" "svg" "icons-facebook") }}
+        {{ partial "social-icon" (dict "link" "{{.Params.fb}}" "svg" "icons-facebook") }}
       </p>
       {{ end }}
       {{ if .Params.instagram }}
