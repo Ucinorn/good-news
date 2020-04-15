@@ -20,15 +20,15 @@
       {{ .Content }}
     </div>
     {{ if .Params.hashtags }}
-    <div>
+    <div class="cms mw6 ws-normal">
       {{ .Params.hashtags | markdownify }}
     </div>
     {{ end }}
 
     <div class="db mt4 flex justify-around">
-      <a class="btn {{if not .PrevInSection}} grey1 bcgrey1 {{end}}" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">Older</a>
-      <a class="ba bw1 pa1" href="/">Home</a>
-      <a class="btn btn-lg cc-btn-default{{if not .NextInSection}} disabled{{end}}" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">Newer</a>
+      <a class="btn {{if not .PrevInSection}} grey1 bcgrey1 disabled{{end}}" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">&larr; Older</a>
+      <a class="f6 pa1" href="/">Back to Posts</a>
+      <a class="btn btn-lg cc-btn-default{{if not .NextInSection}} grey1 bcgrey1 disabled{{end}}" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">Newer &rarr;</a>
     </div>
   </div>
 {{ end }}
