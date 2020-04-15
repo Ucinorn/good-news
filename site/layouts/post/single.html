@@ -21,7 +21,7 @@
     </div>
     {{ if .Params.hashtags }}
     <div>
-      {{ .Params.hashtags }}
+      {{ .Params.hashtags | markdownify }}
     </div>
     {{ end }}
 
