@@ -3,7 +3,7 @@
   <h4 class="f3 b lh-title mb3 tc">Send us your Good News Story</h4>
   <p class="f4 mb3 tc">Or just say hello, we don't mind</p>
 
-  <form data-netlify="true" action="">
+  <form data-netlify="true" data-netlify-recaptcha="true" action="">
     <div class="flex-l mhn1-l">
       <!-- Name -->
       <div class="ph1-l w-50-l">
@@ -34,7 +34,8 @@
          accept="image/png, image/jpeg">
       <label for="image">Send us a photo to go with your Story</label>
     </fieldset>
-
+    
+    <div data-netlify-recaptcha="true"></div>
     <!-- Button -->
     <div class="tc">
       <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>

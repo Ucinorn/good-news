@@ -1,11 +1,14 @@
 <div class="mw6 center">
   <h3>Sign up for Good News Updates</h3>
 
-  <form data-netlify="true" action="" class="flex-ns mb3">
+  <form data-netlify="true" netlify-honeypot="bot-field" action="" class="flex-ns mb3">
     <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" action="newsletter-subscribe">
       <input type="text" id="email" placeholder="Your email" class="w-100">
       <label for="email">Your email</label>
     </fieldset>
+    <p class="hidden">
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </p>
 
     <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Submit</button>
 
