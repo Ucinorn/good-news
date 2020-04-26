@@ -1,11 +1,11 @@
 ---
 title: WEIRD WORLD WITHOUT SPORT
-date: "2020-04-17T05:27:15.128Z"
+date: 2020-04-17T05:27:15.128Z
 fb: https://www.facebook.com/The-Good-News-349886855685259/
 instagram: https://www.instagram.com/thegoodnews_au/
 description: Sunrise reporter and self-confessed sports junkie Mark Beretta
   talks about life without sport during COVID-19.
-image: img/20181220_121205-1-.jpg
+image: img/journo_stadium.jpg
 ---
 \
 It’s bizarre. Who has ever known a winter without a football season? Who ever imagined the Tokyo Olympics could be shunted a year down the track? Even the Tour de France has been grudgingly pushed back. The world of sport has been halted, and it’s not good for us.\
