@@ -1,5 +1,5 @@
 ---
-title: WHEN GOOD NEIGHBOURS BECOME GOOD FRIENDS
+title: "MATESHIP MONDAY: WHEN GOOD NEIGHBOURS BECOME GOOD FRIENDS"
 date: 2020-04-26T23:23:36.443Z
 description: >+
   For Connie Spicer and Geoff Boughton, it’s almost like the Neighbours theme
