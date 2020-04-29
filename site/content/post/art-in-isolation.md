@@ -1,6 +1,7 @@
 ---
 title: ART IN ISOLATION
 date: 2020-04-29T05:08:42.215Z
+instagram: https://www.instagram.com/p/B_jfhKFDh_m/
 description: Before self-isolation was a thing, freelance photographer Sarah
   Enticknap, did a series of portraits of actors through glass.
 image: img/window-photog.png
