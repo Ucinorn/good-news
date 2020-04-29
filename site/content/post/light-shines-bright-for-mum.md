@@ -1,11 +1,11 @@
 ---
 title: LIGHT SHINES BRIGHT FOR MUM
-date: "2020-04-22T04:29:20.394Z"
+date: 2020-04-22T04:29:20.394Z
 fb: https://www.facebook.com/The-Good-News-349886855685259/
 instagram: https://www.instagram.com/stories/thegoodnews_au/
 description: TV personality Georgia Love doesn’t think twice when she says
   Mother’s Day is her least favourite day of the year.
-image: img/image.jpeg
+image: img/georgia-love-01.png
 ---
 Georgia lost her mum, Belinda, to pancreatic cancer in 2016.\
 While sitting by her bed in palliative care, Georgia googled if there was a pancreatic cancer foundation. It was the first time she had heard of Pancare – a support foundation for people suffering pancreatic and upper GI cancer. She immediately became determined to raise more awareness about the terminal illness, which has a five-year survival rate of only 9 per cent.\
