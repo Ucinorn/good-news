@@ -5,7 +5,7 @@ description: >+
   For Connie Spicer and Geoff Boughton, it’s almost like the Neighbours theme
   song was written for them.
 
-image: img/screen-shot-2020-04-27-at-8.52.48-am.png
+image: img/neighbours-new-friends.png
 ---
 Although they’ve only lived next door to each other for 2.5 years, a tragedy has led to an incredible friendship that will last a lifetime.\
 Their story is the first Nextdoor “Mateship Monday” story for *The Good News*.\
