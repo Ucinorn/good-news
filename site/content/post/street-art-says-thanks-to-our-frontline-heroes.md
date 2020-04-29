@@ -1,11 +1,11 @@
 ---
 title: STREET ART SAYS THANKS TO OUR FRONTLINE HEROES
-date: "2020-04-21T05:05:16.714Z"
+date: 2020-04-21T05:05:16.714Z
 fb: https://www.facebook.com/The-Good-News-349886855685259/
 instagram: https://www.instagram.com/thegoodnews_au/
 description: A touching Melbourne mural has publicly recognised the work of our
   medical workers.
-image: img/melbourne-murals.jpeg
+image: img/nurse-art-01.png
 ---
 \
 The artwork, on a newsagency in the bayside suburb of Black Rock, has gone viral since it was completed over the weekend.\
