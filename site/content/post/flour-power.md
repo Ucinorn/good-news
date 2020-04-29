@@ -3,7 +3,7 @@ title: FLOUR POWER
 date: 2020-04-27T07:24:41.003Z
 description: Australian farmers are about to benefit from funding for rural
   hardship thanks to new pantry staples that have hit supermarket shelves.
-image: img/farmerbrodie_farmerchris_1.jpg
+image: img/flour-power-01.png
 ---
 The Good Harvest Co wasn't due to launch until May; but thanks to demand caused by the coronavirus, their products including pasta and flour were rushed to sale, with flour hitting shelves at the end of March.\
 The Good Harvest Co is an initiative by food manufacturer Rinoldi and works with Australian farmers who pride themselves on their responsible approach to agriculture.\
