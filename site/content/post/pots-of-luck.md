@@ -5,10 +5,6 @@ description: Yoghurt manufacturer Chobani is delivering the goods – literally 
   to those affected by the coronavirus.
 image: img/managing-director-lynley-radford-1.jpg
 ---
-
-
-
-
 The manufacturer is spreading the love by giving away 50,000 pots of their Greek goodness to fans needing a change in luck.
 
 Led by Chobani Australia Managing Director Lynley Radford (pictured), the brand is acting on one of their key values in giving back.
@@ -23,4 +19,4 @@ Each person who is selected gets a month’s supply of yoghurt. More than 1186 p
 
 Surplus stock at the brand’s Dandenong is being donated to Foodbank Australia as part of their ongoing partnership; although Chobani have also pledged an additional 200 pallets of yoghurt (about 230,000 pots of yoghurt) to the charity this year.
 
-To nominate someone deserving, go to[www.chobaniaustralia.com.au](http://www.chobaniaustralia.com.au%0D%0D/)
+To nominate someone deserving, go to: [www.chobaniaustralia.com.au](http://www.chobaniaustralia.com.au%0D%0D/)
