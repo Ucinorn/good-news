@@ -12,11 +12,11 @@ But two levels down, there’s a skate bowl, literally, in the living room.
 
 Since hitting the market, the 9x12 metre in-ground concrete bowl has led to the house getting international attention by skating fanatics keen to call the unique property home.
 
-The agent selling the property is Corey Cosgrove, from Place Estate Agents in Ascot, who first met the vendors many years ago.
+The agent selling the property is Drew Davies, from Place Estate Agents in Ascot, who first met the vendors many years ago.
 
-The story goes that the vendor’s son was on crutches and when Corey asked what happened, he was surprised when he told he was skating in their private skate bowl.
+The story goes that the vendor’s son was on crutches and when Drew asked what happened, he was surprised when he told he was skating in their private skate bowl.
 
-Years later, Corey is now selling the property with a disclaimer that the property is being sold without a price, presumably because it’s so unique it’s hard to provide a price guide.
+Years later, Drew is now selling the property with a disclaimer that the property is being sold without a price, presumably because it’s so unique it’s hard to provide a price guide.
 
 ![](img/skatehouse4.jpeg)
 
