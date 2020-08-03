@@ -1,6 +1,6 @@
 ---
 title: BUBBLE' O' THRILL FOR ICE CREAM FANATICS
-date: 2020-08-03T00:43:53.515Z
+date: 2020-07-13T00:43:53.515Z
 instagram: https://www.instagram.com/p/CClQzFsjoa1/
 description: Clear the freezer.... There's a new tub of ice cream in town.
 image: img/109066519_565338800806729_8400513665375060733_n.jpg
