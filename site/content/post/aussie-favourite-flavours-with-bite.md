@@ -1,6 +1,7 @@
 ---
 title: AUSSIE FAVOURITE FLAVOURS WITH BITE
 date: 2020-07-21T00:41:25.748Z
+instagram: https://www.instagram.com/p/CC3jFvgDIrR/
 description: The latest snackable collaboration has hit supermarket shelves
   marrying Australia's favourite flavoured milks with our favourite biscuits.
 image: img/110105446_569451017062174_7729358893141566443_n.jpg
