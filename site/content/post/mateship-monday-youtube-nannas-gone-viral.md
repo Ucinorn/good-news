@@ -1,11 +1,13 @@
 ---
 title: "MATESHIP MONDAY: YOUTUBE NANNA'S GONE VIRAL"
 date: 2020-08-03T00:30:22.795Z
-description: By her own admission, Lyn Farrington is a fun loving Nanna. She
-  says so on her Instagram bio. But never did the early learning teacher think
-  she'd ever become a Youtube content creator.
+instagram: https://www.instagram.com/p/CDY4oPMDM-F/
+description: "By her own admission, Lyn Farrington is a fun loving Nanna. She
+  says so on her Instagram bio. "
 image: img/img_5798.jpg
 ---
+But never did the early learning teacher think she'd ever become a Youtube content creator.
+
 "Technology has never been my forte, but I've learned to use it in creative ways to stay connected with my beautiful grandchildren," Lyn, 61, says.
 
 "It's easy in times like this to feel isolated and disconnected from our family members," she says.
